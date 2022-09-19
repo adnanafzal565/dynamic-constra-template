@@ -111,12 +111,8 @@
 		                          </ul>
 		                      </li>
 		              
-		                      <li class="nav-item dropdown">
-		                          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Projects <i class="fa fa-angle-down"></i></a>
-		                          <ul class="dropdown-menu" role="menu">
-		                            <li><a href="projects.html">Projects All</a></li>
-		                            <li><a href="projects-single.html">Projects Single</a></li>
-		                          </ul>
+		                      <li class="nav-item">
+		                          <router-link to="/projects" class="nav-link">Projects</router-link>
 		                      </li>
 		              
 		                      <li class="nav-item dropdown">
