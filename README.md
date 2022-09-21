@@ -1,6 +1,6 @@
 # Dynamic constra template
 
-"Constra" is an HTML template developed by themefisher.com.
+"Constra" is an HTML template developed by themefisher.com. You can find the all tutorials [here](https://adnan-tech.com/dynamic-construction-html-template-vue-js-laravel/).
 
 ![alt text](https://raw.githubusercontent.com/adnanafzal565/images/main/Converting%20constra%20template%20into%20dynamic%20website%20-%20Vue%20JS%20%2B%20Laravel.png)
 
